@@ -1,7 +1,8 @@
 Hummingbird Interactive and HoloPops are two spatial audio XR projects that I worked on when I was doing alot of Hololens work.
 
-## Hummingbird Interactive
+## Hummingbird Interactive (https://github.com/spayne/Hummingbird-Interactive)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5BCtuucg-UM/1.jpg)](https:https://www.youtube.com/watch?v=5BCtuucg-UM)
+
 ## HoloPops
 HoloPops won best the use of spatial audio category.  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1oZyU6HWQqY/1.jpg)](https:https://www.youtube.com/watch?v=1oZyU6HWQqY)
